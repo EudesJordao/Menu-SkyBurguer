@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "BurguerTest",
+            "price": 1.99
+        },
+        {
+            "id": 2,
+            "name": "BurguerTest2",
+            "price": 1.94
+        },
+        {
+            "id": 3,
+            "name": "BurguerTest3",
+            "price": 1.96
+        }
+    ]
+}
